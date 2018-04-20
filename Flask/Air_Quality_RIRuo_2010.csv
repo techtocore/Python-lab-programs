@@ -1,0 +1,176 @@
+State,City,Type of Station,Sulfur dioxide(SO2)-Annual average(µg/m3),Sulfur dioxide(SO2)-Air Quality,Nitrogen dioxide(NO2)-Annual average(µg/m3),Nitrogen dioxide(NO2)-Air Quality,PM 10-Annual average(µg/m3),PM 10-Air Quality
+Andhra Pradesh,Chitoor,RIRuO,4,Low,9,Low,39,Moderate
+Andhra Pradesh,Guntur,RIRuO,2,Low,11,Low,81,High
+Andhra Pradesh,Hydrabad,RIRuO,5,Low,24,Moderate,79,High
+Andhra Pradesh,Kothagudem,RIRuO,2,Low,11,Low,62,High
+Andhra Pradesh,Kurnool,RIRuO,4,Low,9,Low,85,High
+Andhra Pradesh,Nalgonda,RIRuO,5,Low,23,Moderate,85,High
+Andhra Pradesh,Nellore,RIRuO,2,Low,12,Low,65,High
+Andhra Pradesh,Patencheru,RIRuO,11,Low,23,Moderate,76,High
+Andhra Pradesh,Ramagundam,RIRuO,4,Low,12,Low,68,High
+Andhra Pradesh,Tirupati,RIRuO,4,Low,9,Low,37,Moderate
+Andhra Pradesh,Vijaywada,RIRuO,6,Low,14,Low,93,Critical
+Andhra Pradesh,Warangal,RIRuO,4,Low,10,Low,52,Moderate
+Andhra Pradesh,Vishakhapatnam,RIRuO,7,Low,16,Low,71,High
+Assam,Bongaigaon,RIRuO,6,Low,15,Low,58,Moderate
+Assam,Daranga,RIRuO,5,Low,14,Low,58,Moderate
+Assam,Dibrugarh,RIRuO,6,Low,14,Low,38,Moderate
+Assam,Golaghat,ES (Numaligarh),6,Low,15,Low,73,Critical
+Assam,Guwahati,RIRuO,7,Low,15,Low,94,Critical
+Assam,Lakhimpur,RIRuO,6,Low,15,Low,76,High
+Assam,Nagaon,RIRuO,6,Low,14,Low,103,Critical
+Assam,Nalbari,RIRuO,7,Low,16,Low,68,High
+Assam,Sibsagar,RIRuO,6,Low,14,Low,59,Moderate
+Assam,Silchar,RIRuO,6,Low,16,Low,81,High
+Assam,Tezpur,RIRuO,6,Low,13,Low,68,High
+Assam,Tinsukia,RIRuO,7,Low,16,Low,58,Moderate
+Bihar,Patna,RIRuO,7,Low,40,Moderate,181,Critical
+Chandigarh,Chandigarh,RIRuO,2,Low,16,Low,92,Critical
+Chattisgarh,Bhillai,RIRuO,9,Low,22,Moderate,109,Critical
+Chattisgarh,Korba,RIRuO,13,Low,21,Moderate,104,Critical
+Chattisgarh,Raipur,RIRuO,15,Null,43,Null,289,Critical
+Dadra and Nagar Haveli,Silvassa,RIRuO,7,Low,18,Low,39,Moderate
+Daman and Diu,Daman,RIRuO,7,Low,18,Low,35,Moderate
+Delhi,Delhi,RIRuO,5,Low,55,High,261,Critical
+Goa,Panaji,RIRuO,4,Low,17,Low,85,High
+Goa,Marmagao,RIRuO,32,Moderate,18,Low,59,Moderate
+Goa,Vasco,RIRuO,6,Low,19,Low,61,High
+Goa,Curchorem,RIRuO,32,Null,17,Null,38,Null
+Goa,Codli,RIRuO,10,Null,27,Null,90,Null
+Goa,Bicholim,RIRuO,9,Null,50,Null,89,Null
+Goa,Amona,RIRuO,6,Null,18,Null,55,Null
+Goa,Assanora,RIRuO,5,Null,16,Null,71,Null
+Goa,Honda,ES (Sahyadri),8,Low,25,Moderate,100,Critical
+Goa,Usgao,RIRuO,6,Null,10,Null,245,Null
+Gujarat,Ahmedabad,RIRuO,15,Low,21,Moderate,95,Critical
+Gujarat,Anklesvar,RIRuO,16,Low,24,Moderate,77,High
+Gujarat,Jamnagar,RIRuO,12,Low,27,Moderate,104,Critical
+Gujarat,Rajkot,RIRuO,13,Low,17,Low,96,Critical
+Gujarat,Surat,RIRuO,16,Low,24,Moderate,76,High
+Gujarat,Vadodara,RIRuO,17,Low,29,Moderate,93,Critical
+Gujarat,Vapi,RIRuO,16,Low,24,Moderate,80,High
+Haryana,Faridabad,RIRuO,18,Low,29,Moderate,164,Critical
+Haryana,Hissar,RIRuO,8,Null,8,Null,95,Null
+Haryana,Yamunanagar,RIRuO,12,Low,26,Moderate,261,Critical
+HimachalPradesh,Baddi,RIRuO,3,Low,16,Low,105,Critical
+HimachalPradesh,Damtal,RIRuO,2,Low,11,Low,68,High
+HimachalPradesh,Kala Amb,RIRuO,3,Low,18,Low,79,High
+HimachalPradesh,Nalagarh,RIRuO,3,Low,18,Low,86,High
+HimachalPradesh,Parwanoo,RIRuO,3,Low,12,Low,84,High
+HimachalPradesh,Paonta Sahib,RIRuO,3,Low,17,Low,135,Critical
+HimachalPradesh,Shimla,ES (Hill station),3,Low,13,Low,58,Moderate
+Jammu and Kashmir,Jammu,RIRuO,7,Low,15,Low,115,Critical
+Jharkhand,Dhanbad,RIRuO,15,Low,36,Moderate,184,Critical
+Jharkhand,Jamshedpur,RIRuO,35,Moderate,48,High,153,Critical
+Jharkhand,Jharia,RIRuO,17,Low,38,Moderate,237,Critical
+Jharkhand,Ranchi,RIRuO,19,Low,35,Moderate,172,Critical
+Jharkhand,Saraikela Khar- sawan,RIRuO,35,Moderate,45,High,169,Critical
+Jharkhand,Sindri,RIRuO,16,Null,37,Null,174,Null
+Jharkhand,West Singhbhum,RIRuO,21,Low,32,Moderate,302,Critical
+Karnataka,Bangalore,RIRuO,14,Low,31,Moderate,89,High
+Karnataka,Belgaum,ES (Sahyadri),2,Low,15,Low,33,Moderate
+Karnataka,Gulburga,RIRuO,9,Low,13,Low,65,High
+Karnataka,Hassan,RIRuO,5,Low,22,Moderate,45,Moderate
+Karnataka,Hubli-Dharwad,RIRuO,5,Low,13,Low,92,Critical
+Karnataka,Mangalore,RIRuO,6,Low,8,Low,48,Moderate
+Karnataka,Mysore,RIRuO,10,Low,28,Moderate,44,Moderate
+Kerala,Alappuzha,RIRuO,2,Low,5,Low,44,Moderate
+Kerala,Kochi,RIRuO,4,Low,17,Low,61,High
+Kerala,Kollam,RIRuO,3,Low,15,Low,47,Moderate
+Kerala,Kottayam,RIRuO,6,Low,19,Low,47,Moderate
+Kerala,Kozhikode,RIRuO,2,Low,9,Low,42,Moderate
+Kerala,Malapuram,RIRuO,2,Low,5,Low,30,Low
+Kerala,Palakkad,RIRuO,3,Low,6,Low,32,Moderate
+Kerala,Pathanamthitta,RIRuO,2,Low,13,Low,27,Low
+Kerala,Thissur,RIRuO,2,Low,7,Low,31,Moderate
+Kerala,Wayanad,RIRuO,2,Low,12,Low,46,Moderate
+Kerala,Trivandrum,RIRuO,9,Low,24,Moderate,56,Moderate
+MadhyaPradesh,Bhopal,RIRuO,9,Low,18,Low,133,Critical
+MadhyaPradesh,Dewas,RIRuO,12,Low,18,Low,85,High
+MadhyaPradesh,Gwalior,RIRuO,12,Low,20,Low,308,Critical
+MadhyaPradesh,Indore,RIRuO,14,Low,18,Low,120,Critical
+MadhyaPradesh,Jabalpur,RIRuO,2,Null,25,Null,135,Null
+MadhyaPradesh,Nagda,RIRuO,19,Low,24,Moderate,95,Critical
+MadhyaPradesh,Sagar,RIRuO,4,Low,17,Low,66,Null
+MadhyaPradesh,Satna,RIRuO,3,Low,6,Low,194,Critical
+MadhyaPradesh,Singrauli,RIRuO,15,Null,19,Null,59,Null
+MadhyaPradesh,Ujjain,RIRuO,12,Low,13,Low,80,High
+Maharashtra,Amravati,RIRuO,12,Low,14,Low,118,Critical
+Maharashtra,Aurangabad,RIRuO,6,Low,21,Moderate,75,High
+Maharashtra,Badlapur,RIRuO,32,Moderate,73,Critical,112,Critical
+Maharashtra,Chandrapur,RIRuO,26,Moderate,26,Moderate,152,Critical
+Maharashtra,Jalgaon,RIRuO,17,Low,45,High,122,Critical
+Maharashtra,Kolhapur,ES (Sahyadri),15,Moderate,22,Moderate,83,High
+Maharashtra,Latur,RIRuO,8,Low,16,Low,106,Critical
+Maharashtra,Lote,RIRuO,60,Null,30,Null,119,Null
+Maharashtra,Pune,RIRuO,29,Moderate,39,Moderate,82,High
+Maharashtra,Mahad,RIRuO,19,Low,38,Moderate,93,Critical
+Maharashtra,Mumbai,RIRuO,4,Low,19,Low,97,Critical
+Maharashtra,Nagpur,RIRuO,7,Low,33,Moderate,113,Critical
+Maharashtra,Nashik,RIRuO,21,Low,26,Moderate,76,High
+Maharashtra,Navi Mumbai,RIRuO,20,Low,39,Moderate,113,Critical
+Maharashtra,Roha,RIRuO,16,Low,34,Moderate,89,High
+Maharashtra,Sangli,RIRuO,14,Low,27,Moderate,62,High
+Maharashtra,Solapur,RIRuO,17,Low,35,Moderate,66,High
+Maharashtra,Thane,RIRuO,14,Low,14,Low,50,Moderate
+Maharashtra,Ulhasnagar,RIRuO,31,Moderate,68,Critical,106,Critical
+Meghalaya,Dawki,RIRuO,2,Low,6,Low,71,High
+Meghalaya,Shillong,ES (Hill station),2,Low,10,Low,79,High
+Meghalaya,Tura,RIRuO,2,Null,9,Null,63,Null
+Mizoram,Aizawl,Hill sta- tion,2,Low,6,Low,42,Moderate
+Nagaland,Dimapur,RIRuO,2,Low,7,Low,76,High
+Nagaland,Kohima,ES (Hill station),2,Low,5,Low,66,High
+Orissa,Angul,RIRuO,7,Low,21,Moderate,110,Critical
+Orissa,Balasore,RIRuO,2,Low,12,Low,73,High
+Orissa,Berhampur,RIRuO,2,Low,13,Low,58,Moderate
+Orissa,Bhubneshwar,RIRuO,2,Low,18,Low,84,High
+Orissa,Cuttack,RIRuO,2,Low,21,Moderate,74,High
+Orissa,Rayagada,RIRuO,2,Low,20,Low,58,Moderate
+Orissa,Rourkela,RIRuO,5,Low,11,Low,105,Critical
+Orissa,Sambalpur,RIRuO,3,Low,15,Low,50,Moderate
+Orissa,Talcher,RIRuO,12,Low,23,Moderate,116,Critical
+Punjab,Amritsar,RIRuO,14,Low,36,Moderate,219,Critical
+Punjab,Bhatinda,RIRuO,9,Low,21,Moderate,216,Critical
+Punjab,Dera Bassi,RIRuO,10,Low,23,Moderate,162,Critical
+Punjab,Pathankot/DeraBaba,RIRuO,7,Low,14,Low,76,High
+Punjab,Gobindgarh,RIRuO,18,Low,35,Moderate,224,Critical
+Punjab,Jalandar,RIRuO,11,Null,29,Null,144,Null
+Punjab,Khanna,RIRuO,9,Low,31,Moderate,231,Critical
+Punjab,Ludhiana,RIRuO,9,Low,32,Moderate,214,Critical
+Punjab,Naya Nangal,RIRuO,7,Low,16,Low,94,Critical
+Punjab,Patiala,RIRuO,7,Low,20,Low,143,Critical
+Puducherry,Puducherry,RIRuO,6,Low,13,Low,38,Moderate
+Rajasthan,Alwar,ES (Aravali range),8,Low,24,Moderate,225,Critical
+Rajasthan,Jaipur,RIRuO,6,Low,37,Moderate,164,Critical
+Rajasthan,Jodhpur,RIRuO,6,Low,22,Moderate,181,Critical
+Rajasthan,Kota,RIRuO,10,Low,29,Moderate,132,Critical
+Rajasthan,Udaipur,RIRuO,6,Low,34,Moderate,116,Critical
+Tamilnadu,Chennai,RIRuO,9,Low,15,Low,59,Moderate
+Tamilnadu,Coimbatore,RIRuO,5,Low,27,Moderate,78,High
+Tamilnadu,Madurai,RIRuO,11,Low,25,Moderate,47,Moderate
+Tamilnadu,Salem,RIRuO,8,Low,26,Moderate,85,High
+Tamilnadu,Tuticorin,RIRuO,12,Low,12,Low,119,Critical
+UttarPradesh,Agra,ES (Taj-trapezi-um),5,Low,20,Moderate,185,Critical
+UttarPradesh,Allahabad,RIRuO,4,Low,24,Moderate,218,Critical
+UttarPradesh,Anpara,RIRuO,17,Low,28,Moderate,128,Critical
+UttarPradesh,Ferozabad,ES (Taj-trapezi-um),16,Moderate,33,High,214,Critical
+UttarPradesh,Gajraula,RIRuO,16,Low,22,Moderate,87,High
+UttarPradesh,Ghaziabad,RIRuO,30,Moderate,37,Moderate,290,Critical
+UttarPradesh,Jhansi,RIRuO,9,Low,25,Moderate,118,Critical
+UttarPradesh,Kanpur,RIRuO,7,Low,34,Moderate,203,Critical
+UttarPradesh,Khurja,RIRuO,29,Moderate,27,Moderate,173,Critical
+UttarPradesh,Lucknow,RIRuO,8,Low,34,Moderate,204,Critical
+UttarPradesh,Meerut,RIRuO,8,Low,47,High,166,Critical
+UttarPradesh,Muradabad,RIRuO,11,Null,21,Null,195,Null
+UttarPradesh,Noida,RIRuO,11,Low,46,High,132,Critical
+UttarPradesh,Varanasi,RIRuO,18,Low,20,Low,127,Null
+Uttarakhand,Dehradun,ES (Doon valley),28,High,30,Moderate,162,Critical
+West Bengal,Asansol,RIRuO,8,Low,66,Critical,141,Critical
+West Bengal,Barrackpore,RIRuO,12,Low,74,Critical,121,Critical
+West Bengal,Durgapur,RIRuO,8,Low,66,Critical,141,Critical
+West Bengal,Haldia,RIRuO,14,Low,52,High,57,Moderate
+West Bengal,Howrah,RIRuO,12,Low,75,Critical,118,Critical
+West Bengal,Kolkata,RIRuO,11,Low,62,Critical,99,Critical
+West Bengal,Raniganj,RIRuO,8,Low,63,Critical,159,Critical
+West Bengal,Sankrail,RIRuO,10,Low,65,Critical,100,Critical
+West Bengal,South Suburban,RIRuO,7,Low,56,High,82,High
